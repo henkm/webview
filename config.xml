@@ -8,4 +8,7 @@
 <description>Activiteiten en uitstapjes in de buurt</description>
 <author href="http://www.dagjeweg.nl/" email="redactie@dagjeweg.nl">DagjeWeg.NL</author>
 <preference name="splash-screen-duration" value="1000" />
+<preference name="permissions" value="none"/>
+<feature name="http://api.phonegap.com/1.0/geolocation"/>
+<feature name="http://api.phonegap.com/1.0/network"/>
 </widget>
